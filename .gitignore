@@ -3,7 +3,7 @@ __pycache__
 
 # build
 /build/
-/myutils.egg-info/
+/myutils_sat63k.egg-info/
 
 # dist
 /dist/

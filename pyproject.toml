@@ -3,7 +3,7 @@ requires = ["setuptools", "setuptools-scm"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "myutils"
+name = "myutils_sat63k"
 version = "0.1"
 description = "Various utility functions"
 readme = "README.md"
@@ -13,4 +13,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["myutils"]
+packages = ["myutils_sat63k"]
