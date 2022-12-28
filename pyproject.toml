@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myutils"
+version = "0.1"
+description = "Various utility functions"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+
+]
+
+[tool.setuptools]
+packages = ["myutils"]
